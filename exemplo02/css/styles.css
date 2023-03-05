@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 20px;
+}
+
+#color-display-rgba {
+    margin: 20px auto;
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+}
+
+#color-ranges-rgba {
+    margin: auto;
+    text-align: center;
+
+}
+
+label{
+    font-family: 'regular';
+    font-size: 15px;
+
+}
+
+input [type= range]{
+    width: 200px;
+    margin-right: 10px;
+
+}
+
+#color-hsl {
+    margin: 20px auto;
+    width: 500px;
+    height: 200px;
+    background-color: hsl(0, 0%, 50%);
+    font-family: 'regular';
+    font-size: 30px;
+    text-align: center;
+
+    vertical-align: bottom;
+}
+
+#color-ranges-hsl {
+    margin: auto;
+    text-align: center;
+
+}
