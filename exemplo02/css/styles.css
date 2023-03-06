@@ -31,7 +31,7 @@ input [type= range]{
 #color-hsl {
     margin: 20px auto;
     width: 500px;
-    height: 200px;
+    height: 500px;
     background-color: hsl(0, 0%, 50%);
     font-family: 'regular';
     font-size: 30px;
